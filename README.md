@@ -2,7 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://unlicense.org)
 [![Package on Crates.io](https://img.shields.io/crates/v/known-paths)](https://crates.io/crates/known-paths)
-[![Package on PyPI](https://img.shields.io/pypi/v/known-paths)](https://pypi.org/project/known-paths/)
+[![Package on PyPI](https://img.shields.io/pypi/v/known-paths)](https://pypi.org/project/known-paths)
+[![Package on RubyGems](https://img.shields.io/gem/v/known-paths)](https://rubygems.org/gems/known-paths)
 
 Well-known pathnames.
 
@@ -18,6 +19,13 @@ cargo add known-paths
 
 ```bash
 pip install -U known-paths
+```
+
+### Installation from RubyGems
+
+```bash
+gem install known-paths
+bundle add known-paths
 ```
 
 ## 👨‍💻 Development
